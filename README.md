@@ -1,7 +1,7 @@
 <h3>Activité Pratique N°1</h3>
 <p>
 On considère le diagramme suivant :<br>
-<center><img src="github/Screenshots/Conception.png"></center>
+<center><img src="Screenshots/Conception.png"></center>
 <center><img src="C:\Users\pc\IdeaProjects\emsi_ioc\Screenshots\Conception.png"></center>
 
 1. Créer l'interface IDao avec une méthode getDate :
