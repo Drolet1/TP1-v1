@@ -21,7 +21,7 @@ On considère le diagramme suivant :<br>
 <center><img src="C:\Users\pc\IdeaProjects\emsi_ioc\Screenshots\Statique résultat.png"></center>
 
 5. -Par Instanciation Dynamique :
-<center><img src="C:\Users\pc\IdeaProjects\emsi_ioc\Screenshots\Dynamique.png"></center>
+<center><img src="C:\Users\pc\IdeaProjects\emsi_ioc\Screenshots\Dynamique.png"></center>c
 <center><img src="C:\Users\pc\IdeaProjects\emsi_ioc\Screenshots\Dynamique2.png"></center>
 <center><img src="C:\Users\pc\IdeaProjects\emsi_ioc\Screenshots\Dynamique résultat.png"></center>
 
